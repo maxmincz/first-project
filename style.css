@@ -3,7 +3,7 @@ body {
   font-family: "inter", sans-serif;
   font-weight: 400;
 
-  background-color: #bccd7f;
+  background-color: #847fcd;
 }
 
 h1,
@@ -22,5 +22,5 @@ blockquote {
 .h1_class {
   font-size: 50px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color:rgb(20, 74, 199)
+  color:rgb(20, 199, 68)
 }
